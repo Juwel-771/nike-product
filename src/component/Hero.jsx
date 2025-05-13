@@ -1,5 +1,7 @@
 import React from "react";
 import shoe_image from '../assets/image/shoe_image.png';
+import amazon from '../assets/image/amazon.png';
+import flipkart from '../assets/image/flipkart.png';
 
 const Hero = () => {
   return (
@@ -19,6 +21,10 @@ const Hero = () => {
             <button className="btn btn-warning">Category</button>
           </div>
           <p className="my-5 text-xs text-slate-700">Also Available On</p>
+          <div className="flex items-center size-5">
+            <img src={amazon} className="" alt="amazon" />
+            <img src={flipkart} className="ml-5" alt="flipkart" />
+          </div>
         </div>
         <div>
           <img
