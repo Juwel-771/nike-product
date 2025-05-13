@@ -18,6 +18,7 @@ const Hero = () => {
             <button className="btn btn-error text-white mr-8">Shop Now</button>
             <button className="btn btn-warning">Category</button>
           </div>
+          <p className="my-5 text-xs text-slate-700">Also Available On</p>
         </div>
         <div>
           <img
