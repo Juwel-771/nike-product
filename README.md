@@ -1,6 +1,6 @@
 ## 🚀 Live Preview
 
-[Nike](https://app.netlify.com/projects/nike-prodcut/overview)
+[Nike](https://nike-prodcut.netlify.app/)
 
 # React + Vite
 
